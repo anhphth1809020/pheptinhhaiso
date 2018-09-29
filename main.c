@@ -29,7 +29,7 @@ int main() {
     printf("3. Phep nhan. \n");
     printf("4. Phep chia. \n");
 
-    printf("Nhap lua chon cua ban (1|2): \n");
+    printf("Nhap lua chon cua ban (1|2|3|4): \n");
     scanf("%d", &luachon);
 
     if(luachon == 2) {
